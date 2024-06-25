@@ -70,4 +70,3 @@ final KonuDetay suKaynaklari = KonuDetay(
   ],
 );
 
-// Diğer konular için benzer veri yapılarını oluşturabilirsiniz.

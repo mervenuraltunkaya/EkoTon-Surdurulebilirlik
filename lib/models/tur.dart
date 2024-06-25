@@ -1,6 +1,6 @@
 class Tur {
-  final String tur_baslik; // Türün başlığı
-  final String tur_aciklama; // Türün açıklaması
+  final String tur_baslik;
+  final String tur_aciklama;
 
   Tur({
     required this.tur_baslik,

@@ -1,16 +1,15 @@
 import 'package:ekoton2/data/auth.dart';
-import 'package:ekoton2/ui/views/acilis.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import '../../renkler.dart';
-import 'hosgel.dart';
+import 'anasayfa.dart';
 
-class LoginScreen extends StatefulWidget {
+class KayitGiris extends StatefulWidget {
   @override
-  _LoginScreenState createState() => _LoginScreenState();
+  _KayitGirisState createState() => _KayitGirisState();
 }
 
-class _LoginScreenState extends State<LoginScreen> {
+class _KayitGirisState extends State<KayitGiris> {
   final TextEditingController _emailController = TextEditingController();
   final TextEditingController _sifreController = TextEditingController();
   final TextEditingController _isimController = TextEditingController();
@@ -44,7 +43,7 @@ class _LoginScreenState extends State<LoginScreen> {
 
       Navigator.pushReplacement(
         context,
-        MaterialPageRoute(builder: (context) => LoginScreen()),
+        MaterialPageRoute(builder: (context) => KayitGiris()),
       );
     } on FirebaseAuthException catch (e) {
       setState(() {
@@ -66,7 +65,7 @@ class _LoginScreenState extends State<LoginScreen> {
           .girisYap(email: _emailController.text, sifre: _sifreController.text);
       Navigator.pushReplacement(
         context,
-        MaterialPageRoute(builder: (context) => Hosgel()),
+        MaterialPageRoute(builder: (context) => Anasayfa()),
       );
     } on FirebaseAuthException catch (e) {
       setState(() {

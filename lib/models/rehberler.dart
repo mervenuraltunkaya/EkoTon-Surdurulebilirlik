@@ -1,6 +1,6 @@
 class Rehberler {
-  final String rehber_baslik; // Türün başlığı
-  final String rehber_aciklama; // Türün açıklaması
+  final String rehber_baslik;
+  final String rehber_aciklama;
 
   Rehberler({
     required this.rehber_baslik,

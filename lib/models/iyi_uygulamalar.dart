@@ -1,6 +1,6 @@
 class IyiUygulamalar {
-  final String uyg_baslik; // Türün başlığı
-  final String uyg_aciklama; // Türün açıklaması
+  final String uyg_baslik;
+  final String uyg_aciklama;
 
   IyiUygulamalar({
     required this.uyg_baslik,

@@ -164,8 +164,8 @@ class _ListeGirisState extends State<ListeGiris> {
                   backgroundColor: anaRenk,
                 ),
                 child: Text(
-                  "Eko-do",
-                  style: TextStyle(fontFamily: "PT Sans", fontSize: 32,color: yaziRenk1),
+                  "eko-do",
+                  style: TextStyle(fontFamily: "Homemade Apple", fontSize: 30,color: yaziRenk1),
                 ),
 
               ),

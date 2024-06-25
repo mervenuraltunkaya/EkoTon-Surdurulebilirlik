@@ -1,5 +1,5 @@
-import 'package:ekoton2/ui/views/hosgel.dart';
-import 'package:ekoton2/ui/views/login_screen.dart';
+import 'package:ekoton2/ui/views/anasayfa.dart';
+import 'package:ekoton2/ui/views/kayit_giris.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:video_player/video_player.dart';
@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       routes: {
-        '/login_screen': (context) => LoginScreen(),  // Giriş ekranı rotası
+        '/login_screen': (context) => KayitGiris(),  // Giriş ekranı rotası
       },
       home: SplashScreen(),
       debugShowCheckedModeBanner: false,
@@ -46,7 +46,7 @@ class _SplashScreenState extends State<SplashScreen> {
 
     Future.delayed(Duration(seconds: 4), () {
       Navigator.pushReplacement(
-          context, MaterialPageRoute(builder: (context) => LoginScreen()));  // Açılış ekranından sonra giriş ekranına geç
+          context, MaterialPageRoute(builder: (context) => KayitGiris()));  // Açılış ekranından sonra giriş ekranına geç
     });
   }
 
