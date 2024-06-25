@@ -44,4 +44,4 @@ Bu proje, sürdürülebilirlik hakkında bilgi vermek ve kullanıcıların sürd
 
 ## İletişim
 
-Proje ile ilgili sorularınız veya geri bildirimleriniz için lütfen benimle iletişime geçin: [email@example.com](mailto:mervenuraltunkaya1@gmail.com)
+Proje ile ilgili sorularınız veya geri bildirimleriniz için lütfen benimle iletişime geçin: [mervenuraltunkaya1@gmail.com]
