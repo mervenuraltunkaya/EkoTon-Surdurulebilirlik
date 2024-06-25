@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "509434192283",
+    "project_id": "ekoton2-7e4bd",
+    "storage_bucket": "ekoton2-7e4bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509434192283:android:67a917fbb38441e867413e",
+        "android_client_info": {
+          "package_name": "com.example.ekoton2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0pmH6CZsTx_MxTu9q-Rcrr-6qmBY1tlA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
