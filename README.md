@@ -45,3 +45,16 @@ Bu proje, sürdürülebilirlik hakkında bilgi vermek ve kullanıcıların sürd
 ## İletişim
 
 Proje ile ilgili sorularınız veya geri bildirimleriniz için lütfen benimle iletişime geçin: [email@example.com](mailto:mervenuraltunkaya1@gmail.com)
+
+
+![kayit](assets/tanitim/kayit.png)
+
+![girisYap](assets/tanitim/girisYap.png)
+
+![giris](assets/tanitim/giris.png)
+
+![icerik](assets/tanitim/icerik.png)
+
+![bilgi](assets/tanitim/bilgi_kart.png)
+
+![ekodo](assets/tanitim/ekodo.png)
