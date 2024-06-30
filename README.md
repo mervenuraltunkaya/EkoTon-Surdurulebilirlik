@@ -51,15 +51,15 @@ Proje ile ilgili sorularınız veya geri bildirimleriniz için lütfen benimle i
 
 <table>
   <tr>
-    <td><img src="assets/images/kayit.png" alt="kayit" width="200"/></td>
-    <td><img src="assets/images/girisYap.png" alt="girisYap" width="200"/></td>
+    <td><img src="assets/images/kayit.png" alt="kayit" width="300"/></td>
+    <td><img src="assets/images/girisYap.png" alt="girisYap" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="assets/images/giris.png" alt="giris" width="200"/></td>
-    <td><img src="assets/images/icerik.png" alt="icerik" width="200"/></td>
+    <td><img src="assets/images/giris.png" alt="giris" width="300"/></td>
+    <td><img src="assets/images/icerik.png" alt="icerik" width="300"/></td>
   </tr>
   <tr>
-    <td><img src="assets/images/bilgi_kart.png" alt="bilgi" width="200"/></td>
-    <td><img src="assets/images/ekodo.png" alt="ekodo" width="200"/></td>
+    <td><img src="assets/images/bilgi_kart.png" alt="bilgi" width=300"/></td>
+    <td><img src="assets/images/ekodo.png" alt="ekodo" width="300"/></td>
   </tr>
 </table>
