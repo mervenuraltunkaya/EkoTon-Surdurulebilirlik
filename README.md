@@ -49,14 +49,14 @@ Proje ile ilgili sorularınız veya geri bildirimleriniz için lütfen benimle i
 
 ## Proje İçeriğinden Görseller
 
-![kayit](assets/tanitim/kayit.png)
+![kayit](assets/images/kayit.png)
 
-![girisYap](assets/tanitim/girisYap.png)
+![girisYap](assets/images/girisYap.png)
 
-![giris](assets/tanitim/giris.png)
+![giris](assets/images/giris.png)
 
-![icerik](assets/tanitim/icerik.png)
+![icerik](assets/images/icerik.png)
 
-![bilgi](assets/tanitim/bilgi_kart.png)
+![bilgi](assets/images/bilgi_kart.png)
 
-![ekodo](assets/tanitim/ekodo.png)
+![ekodo](assets/images/ekodo.png)
