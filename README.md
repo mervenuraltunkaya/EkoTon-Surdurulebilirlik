@@ -47,14 +47,16 @@ Bu proje, sürdürülebilirlik hakkında bilgi vermek ve kullanıcıların sürd
 Proje ile ilgili sorularınız veya geri bildirimleriniz için lütfen benimle iletişime geçin: [email@example.com](mailto:mervenuraltunkaya1@gmail.com)
 
 
-![kayit](assets/tanitim/kayit.png)
+## Proje İçeriğinden Görseller
 
-![girisYap](assets/tanitim/girisYap.png)
+![kayit](assets/images/kayit.png)
 
-![giris](assets/tanitim/giris.png)
+![girisYap](assets/images/girisYap.png)
 
-![icerik](assets/tanitim/icerik.png)
+![giris](assets/images/giris.png)
 
-![bilgi](assets/tanitim/bilgi_kart.png)
+![icerik](assets/images/icerik.png)
 
-![ekodo](assets/tanitim/ekodo.png)
+![bilgi](assets/images/bilgi_kart.png)
+
+![ekodo](assets/images/ekodo.png)
