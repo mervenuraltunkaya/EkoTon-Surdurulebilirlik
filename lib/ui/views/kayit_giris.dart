@@ -184,7 +184,6 @@ class _KayitGirisState extends State<KayitGiris> {
                   ),
                 ),
               ),
-              if (!isLogin)
                 SizedBox(height: 16),
               if (!isLogin)
                 TextField(
