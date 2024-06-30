@@ -49,14 +49,17 @@ Proje ile ilgili sorularınız veya geri bildirimleriniz için lütfen benimle i
 
 ## Proje İçeriğinden Görseller
 
-![kayit](assets/images/kayit.png)
-
-![girisYap](assets/images/girisYap.png)
-
-![giris](assets/images/giris.png)
-
-![icerik](assets/images/icerik.png)
-
-![bilgi](assets/images/bilgi_kart.png)
-
-![ekodo](assets/images/ekodo.png)
+<table>
+  <tr>
+    <td><img src="assets/images/kayit.png" alt="kayit" width="200"/></td>
+    <td><img src="assets/images/girisYap.png" alt="girisYap" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/images/giris.png" alt="giris" width="200"/></td>
+    <td><img src="assets/images/icerik.png" alt="icerik" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/images/bilgi_kart.png" alt="bilgi" width="200"/></td>
+    <td><img src="assets/images/ekodo.png" alt="ekodo" width="200"/></td>
+  </tr>
+</table>
