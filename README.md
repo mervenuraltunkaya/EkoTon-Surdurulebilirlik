@@ -1,4 +1,4 @@
-# EkoTon
+# Sürdürülebilirlik Uygulaması
 
 Bu proje, sürdürülebilirlik hakkında bilgi vermek ve kullanıcıların sürdürülebilir alışkanlıklar edinmelerine yardımcı olmak amacıyla geliştirilmiş bir Flutter uygulamasıdır. Uygulama, Firebase kullanarak kullanıcı kaydı ve giriş işlemlerini gerçekleştirir ve bir todo listesi sunar.
 
@@ -44,4 +44,17 @@ Bu proje, sürdürülebilirlik hakkında bilgi vermek ve kullanıcıların sürd
 
 ## İletişim
 
-Proje ile ilgili sorularınız veya geri bildirimleriniz için lütfen benimle iletişime geçin: [mervenuraltunkaya1@gmail.com](mailto:email@example.com)
+Proje ile ilgili sorularınız veya geri bildirimleriniz için lütfen benimle iletişime geçin: [email@example.com](mailto:mervenuraltunkaya1@gmail.com)
+
+
+![kayit](assets/tanitim/kayit.png)
+
+![girisYap](assets/tanitim/girisYap.png)
+
+![giris](assets/tanitim/giris.png)
+
+![icerik](assets/tanitim/icerik.png)
+
+![bilgi](assets/tanitim/bilgi_kart.png)
+
+![ekodo](assets/tanitim/ekodo.png)
